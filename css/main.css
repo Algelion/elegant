@@ -365,7 +365,7 @@ footer span {
   color: #d4af37;
 }
 
-@media (max-width: 1460) {
+@media (max-width: 1460px) {
   .about-block .post-block {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
