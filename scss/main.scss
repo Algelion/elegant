@@ -310,6 +310,23 @@ footer {
     color: $promp-text-color;
 }
 
+@media(max-width: 1460) {
+    .about-block {
+        .post-block {
+            flex-direction: column;
+    
+            .post-image {
+                width: 100%;
+            }
+            .post-description {
+                .button {
+                    right: 45px;
+                    bottom: 20px;
+                }
+            }
+        }
+    }
+} 
 @media(max-width: 700px) {
     header {
         padding: 0;
