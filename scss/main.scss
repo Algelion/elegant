@@ -328,6 +328,11 @@ footer {
         }
     }
 } 
+@media(max-width: 800px) {
+    .about-block {
+        width: 95%;
+    }
+}
 @media(max-width: 700px) {
     header {
         padding: 0;
@@ -369,8 +374,6 @@ footer {
         }
     }
     .about-block {
-        width: 95%;
-
         p {
             width: 100%;
         }
