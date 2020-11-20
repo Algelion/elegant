@@ -319,8 +319,9 @@ footer {
                 width: 100%;
             }
             .post-description {
+                width: 100%;
+
                 .button {
-                    right: 45px;
                     bottom: 20px;
                 }
             }
@@ -375,18 +376,6 @@ footer {
         }
         .post-block {
             width: 100%;
-
-            flex-direction: column;
-
-            .post-image {
-                width: 100%;
-            }
-            .post-description {
-                .button {
-                    right: 45px;
-                    bottom: 20px;
-                }
-            }
         }
         .contact-block {
             width: 100%;

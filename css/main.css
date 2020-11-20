@@ -375,8 +375,10 @@ footer span {
   .about-block .post-block .post-image {
     width: 100%;
   }
+  .about-block .post-block .post-description {
+    width: 100%;
+  }
   .about-block .post-block .post-description .button {
-    right: 45px;
     bottom: 20px;
   }
 }
@@ -422,17 +424,6 @@ footer span {
   }
   .about-block .post-block {
     width: 100%;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
-  }
-  .about-block .post-block .post-image {
-    width: 100%;
-  }
-  .about-block .post-block .post-description .button {
-    right: 45px;
-    bottom: 20px;
   }
   .about-block .contact-block {
     width: 100%;
